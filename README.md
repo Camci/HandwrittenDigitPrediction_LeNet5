@@ -1,4 +1,4 @@
-# HandwrittenDigitPrediction_LeNet5
+# Handwritten Digit Prediction with LeNet-5 CNN
 This application is a basic tkinter GUI application that allows users to select a handwritten digit image and get a prediction of the digit using LeNet-5 Convolutional Neural Network (CNN) model in the background.
 
 ## Getting Started
