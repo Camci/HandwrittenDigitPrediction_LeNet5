@@ -32,6 +32,11 @@ To make a prediction, click the "Guess" button. The application will load the se
 
 The application uses LeNet-5 CNN model for digit recognition. The model was trained on the MNIST dataset and achieved an accuracy of 99.2%. The pretrained model is stored in the utils/lenet5_mnist.pt file.
 
+
+## Prediction Results
+
+The network can handle many handwritten images even it created by AI. For personal interest and testes, I generated digit numbers with using DALL-E 2 AI image generator. The result is perfect, the trained model can able to predict numbers almost perfectly.
+
 ## Credits
 
 This application was created by Mustafa Camcı. The LeNet-5 model implementation was adapted from YANN LECUN
