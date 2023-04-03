@@ -11,7 +11,7 @@ To get started with this application, you will need to have Python 3 installed o
 4. PIL
 5. Tkinter
 
-***NOTE: All of them can easily install by using "pip3 imstall ......" command!***
+***NOTE: All of them can easily install by using "pip3 install ......" command!***
 
 
 Then, run the following command to launch the application:
