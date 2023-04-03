@@ -35,7 +35,7 @@ The application uses LeNet-5 CNN model for digit recognition. The model was trai
 
 ## Prediction Results
 
-The network can handle many handwritten images even it created by AI. For personal interest and testes, I generated digit numbers with using DALL-E 2 AI image generator. The result is perfect, the trained model can able to predict numbers almost perfectly.
+The network can handle many handwritten images even it created by AI. For personal interest and testes, I generated digit numbers with using DALL-E 2 AI image generator. The result is shocked, the trained model can able to predict numbers almost perfectly.
 
 ## Credits
 
